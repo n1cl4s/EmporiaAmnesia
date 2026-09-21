@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\nicla\\Documents\\kurs2\\textadventure\\EmporiaAmnesia\\emporiaamnesia.csproj": {}
+    "C:\\Users\\nicla\\Documents\\kurs2\\textadventure\\emporiaamnesia\\emporiaamnesia.csproj": {}
   },
   "projects": {
-    "c:\\Users\\nicla\\Documents\\kurs2\\textadventure\\EmporiaAmnesia\\emporiaamnesia.csproj": {
+    "C:\\Users\\nicla\\Documents\\kurs2\\textadventure\\emporiaamnesia\\emporiaamnesia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\nicla\\Documents\\kurs2\\textadventure\\EmporiaAmnesia\\emporiaamnesia.csproj",
+        "projectUniqueName": "C:\\Users\\nicla\\Documents\\kurs2\\textadventure\\emporiaamnesia\\emporiaamnesia.csproj",
         "projectName": "emporiaamnesia",
-        "projectPath": "c:\\Users\\nicla\\Documents\\kurs2\\textadventure\\EmporiaAmnesia\\emporiaamnesia.csproj",
+        "projectPath": "C:\\Users\\nicla\\Documents\\kurs2\\textadventure\\emporiaamnesia\\emporiaamnesia.csproj",
         "packagesPath": "C:\\Users\\nicla\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\nicla\\Documents\\kurs2\\textadventure\\EmporiaAmnesia\\obj\\",
+        "outputPath": "C:\\Users\\nicla\\Documents\\kurs2\\textadventure\\emporiaamnesia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
